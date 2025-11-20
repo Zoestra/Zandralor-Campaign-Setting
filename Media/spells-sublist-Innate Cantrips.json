@@ -1,0 +1,109 @@
+{
+	"fileType": "spells-sublist",
+	"siteVersion": "2.17.0",
+	"name": "Innate Cantrips",
+	"saveId": "2da0c380-0398-4296-a43d-d4a388ca15cd",
+	"items": [
+		{
+			"h": "illusory%20instrument_grimhollowpg24"
+		},
+		{
+			"h": "friends_xphb"
+		},
+		{
+			"h": "mage%20hand_xphb"
+		},
+		{
+			"h": "minor%20illusion_xphb"
+		},
+		{
+			"h": "obfuscate%20object_bookofebontides"
+		},
+		{
+			"h": "task_obojimatallgrass"
+		},
+		{
+			"h": "bright%20sparks_bookofebontides"
+		},
+		{
+			"h": "prestidigitation_xphb"
+		},
+		{
+			"h": "resistance_xphb"
+		},
+		{
+			"h": "shape%20water_xge"
+		},
+		{
+			"h": "druidcraft_xphb"
+		},
+		{
+			"h": "drizzle_bookofebontides"
+		},
+		{
+			"h": "elementalism_xphb"
+		},
+		{
+			"h": "encode%20thoughts_ggr"
+		},
+		{
+			"h": "flowering_bookofebontides"
+		},
+		{
+			"h": "guidance_xphb"
+		},
+		{
+			"h": "light_xphb"
+		},
+		{
+			"h": "mend%20plants_humblewoodtales"
+		},
+		{
+			"h": "message_xphb"
+		},
+		{
+			"h": "mold%20earth_xge"
+		},
+		{
+			"h": "mysterious%20presence_crookedmoon24"
+		},
+		{
+			"h": "retrieve_obojimatallgrass"
+		},
+		{
+			"h": "spare%20the%20dying_xphb"
+		},
+		{
+			"h": "thaumaturgy_xphb"
+		},
+		{
+			"h": "word%20of%20misfortune_bookofebontides"
+		},
+		{
+			"h": "blade%20ward_xphb"
+		},
+		{
+			"h": "dancing%20lights_xphb"
+		},
+		{
+			"h": "douse%20light_bookofebontides"
+		},
+		{
+			"h": "gust_xge"
+		},
+		{
+			"h": "gust%20barrier_humblewoodcampaignsetting"
+		}
+	],
+	"sources": [
+		"GrimHollowPG24",
+		"XPHB",
+		"BookOfEbonTides",
+		"ObojimaTallGrass",
+		"XGE",
+		"GGR",
+		"HumblewoodTales",
+		"CrookedMoon24",
+		"HumblewoodCampaignSetting"
+	]
+}
