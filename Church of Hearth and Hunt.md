@@ -36,5 +36,9 @@ Clerics who are Chosen by The Lady are expected to switch to the Life or Order d
 
 This change of domain occurs as part of the marriage ritual. 
 
+
+### Quotes
+"The Lady rules over matters of the home, but she holds no sway in matters of the heart"
+
 ### Change Gender
 ![[Change Gender]]
