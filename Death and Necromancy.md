@@ -1,3 +1,5 @@
+"Oh you poor thing....they snatched you away from paradise."
+
 Coming back from the dead is a difficult task in Zandralor. Crossing through the veil leaves you permanently changed for the worse.
 
 When an individual is brought back from the dead through the effect of a Revivify, Raise Dead, Resurrection, True Resurrection, or Wish spell, they suffer the following effects:
