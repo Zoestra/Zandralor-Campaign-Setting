@@ -6,15 +6,17 @@ Zandralor is a magical dieselpunk setting embroiled in a globe-spanning war of i
 
 an asian-themed imperialist empire
 language: zhongwen
+religion: way of dharma
 
 ### Najimbe
 an african-themed imperialist empire
 language: Najimbolo
+religion: way of dharma
 
-### \_\_\_ Sultanate
-a persian-themed imperialist empire
-Languate: Farsi
-
+### Sattaran Sultanate
+a ottoman-themed imperialist empire
+Language: Farsi
+religion: Hearth and Hunt
 
 
 ### Dutchy of Caldor
@@ -31,7 +33,7 @@ worlds best clockwork
 *extremely capitalist*
 very active labor movement
 
-## Vampire nation
+## Valnistria
 eastern european imperialized nation
 ran by vampires
 home of the schools of necromancy
@@ -43,16 +45,30 @@ a meso-american themed communist nation
 Language: Nahuatl
 First nation to have a successful communist revolution
 
-## Onyotaka
-Iroquois nation
-
-Language: Ukwehuwehnéha
+### Otoko'nale
+polynesian empire, stretches far across many island chains
+religion: animism
 
 ## Salia
 Salish imperialist nation
+religion: animism
 
 
-### 
+### Pictland
+britain without the english
+colonized nation
+
+### The People's Khanate of Ecctria
+formerly colonized nation
+communist
+religion: previously Smithy, now atheist
+
+### Pantung
+Indonesian civ
+imperialist
+
+
+
 
 
 
@@ -78,7 +94,7 @@ If a player does not share a language with their party, they are presented two o
 ![[God of the Smithy]]
 
 ## Church of Hearth and Hunt
-![[Church of Hearth and Hunt]]
+[[Church of Hearth and Hunt]]
 
 
 
@@ -90,6 +106,25 @@ analog to buddhism
 
 ## The Fool
 a chaotic god of trickery and insanity. many of his followers are anarchists, and are behind many of the largest coups and terrorist attacks. they enjoy spreading chaos for its own sake. Followers of the Fool often secretly worm their way into positions of power within large organizations, with the aim of causing chaos from the inside. 
+
+
+### Creation Myth - Zandra
+all cultures share a creation myth, however they have differing details in the stories, and of course put themselves at the center. 
+This world was created by a god named Zandra, who also created most of the gods. some of the gods were originally from other worlds, but extended their sway to this end of the material plane. 
+Zandralor means "made by Zandra" in an ancient, lost language
+
+this creator god is referred to using they/them pronouns, as the people of this world do not know what gender it held, nor any details about it.
+
+This god is associated with light, and is usually depicted as beams of light breaking through clouds.
+
+Zandra does not have a cult directly associated with them, but they appear in the origin myths of all of the major gods of this world, as the one who created the gods or granted them divinity
+
+mortals who ascend to divinity have their power granted to them by Zandra.
+
+Zandra is viewed as the highest power among the gods, but their influence on the world is said to be unknowable.
+
+
+
 
 # Magic
 ![[Inherent Spellcasting]]

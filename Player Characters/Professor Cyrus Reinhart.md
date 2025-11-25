@@ -1,4 +1,4 @@
-Otongolin (pangolin/otter)
+Ottongolin (pangolin/otter)
 Warmage
 
 - parents
@@ -8,9 +8,6 @@ Warmage
 	- dragonborn doctor
 	- halfling poet
 	- air genasi sky pirate
-- 
-
-
 
 cantrips
 Gust, Dancing Lights, Mage Hand
