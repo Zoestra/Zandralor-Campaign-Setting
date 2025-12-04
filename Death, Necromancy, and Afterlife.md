@@ -92,3 +92,5 @@ A Soulbound Undead which becomes untethered from a necromancer regains its will,
 When they see a living humanoid, they must pass a DC13 will save, or be overcome with the desire to kill and consume that humanoid. For every minute they spend in the presence of living humanoids, they must make this save again, adding -1 to their cumulative penalty every time they have to make this save. This penalty resets when they consume a humanoid, but they receive a permanent -1 to their Wisdom score each time they consume a humanoid.
 
 Soulbound Undead which are not controlled by necromancers commonly attempt to return to their lives, which inevitably ends in tragedy when they attack their loved ones. 
+
+When a Soulbound Undead is destroyed or disanimated, their soul returns to the afterlife as if arriving there for the first time. This does not count as a resurrection for the purposes of the Resurrection section above. 
