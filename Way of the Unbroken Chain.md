@@ -1,0 +1,1 @@
+ If a soul chooses this option, they swear their devotion to Lac'Nang, and are reborn in a new body, as a baby of a new species. Regardless of the culture of their rebirth, they are drawn to the Way of the Unbroken Chain, and will eventually find their way to the Church to convert.

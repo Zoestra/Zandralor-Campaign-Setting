@@ -28,10 +28,19 @@ religion: animism
 # Colonized nations
 
 ## Valnistria
-eastern european imperialized nation
-ran by vampires
-home of the schools of necromancy
+eastern european imperial collaborators 
 Language: Slav
+- Government
+	- Valnistria is ruled by an eternal undead aristocracy. The king is a lv 20 vampire. The lords are all either vampires, or necromancers.
+- Economy
+	- Mindless Undead are used for most productive labor in the country, leaving the living citizens to work as servants for the aristocracy, or as merchants and craftsmen. 
+- Culture
+	- Citizens are required to allow the vampiric nobles to feed on them. Usually the vampires will not kill those they feed on, but sometimes they go too far. 
+- Religion
+	- 
+
+
+
 
 ### Belotrosnia
 russian-style imperialized nation

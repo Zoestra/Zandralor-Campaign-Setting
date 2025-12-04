@@ -2,7 +2,7 @@ Zandralor is a magical dieselpunk setting embroiled in a globe-spanning war of i
 
 # Nations
 
-[[Media Reccomendations]]
+[[Nations]]
 
 
 
@@ -11,15 +11,6 @@ Zandralor is a magical dieselpunk setting embroiled in a globe-spanning war of i
 There is no "Common" in this setting. each nation has their own languages
 however, due to the cultural hegemony of the Jade Empire, hanzi characters have become a near universally recognized writing system. while each language has its own native script, people of the major imperial nations are taught how to read hanzi as though it were their own language, allowing the free exchange of written information. Text written in hanzi by speakers of other languages bears telltale word choice which can identify the language of the author with a DC15 Wisdom(insight) or Intelligence(Investigation) check.
 
-### Alternate Language options
-If a player does not share a language with their party, they are presented two options for learning a new language: 
-- Thick accent
-	- the player can speak one shared language with their party, but poorly. they must roleplay having a very limited vocabulary when trying to speak with their party members. 
-	- while someone is speaking in a thick accent, players must make a Wisdom(insight) check, DC15 to understand the full content of the message. on a failed check, they only partially understand the message, losing any context or nuance in the statement in the process.
-	- when the GM deems appropriate, after the player has roleplayed their thick accent for long enough, they may be granted proficiency in the new language. players are encouraged to continue roleplaying their character with a heavy accent, but it becomes intelligible
-- The 13th Warrior
-	- the player who chooses this path cannot understand the language in question, and can only communicate with their party members through gestures, written word (hanzi), or other non-speech means.
-	- at the GM's discretion, after playing this out for an appropriate period of time, the player can gain full proficiency in that language all at once, out of nowhere. the GM is encouraged to make a scene out of this, and pick a time which is dramatically appropriate, and which will be unexpected to the player.
 
 
 
@@ -35,9 +26,11 @@ If a player does not share a language with their party, they are presented two o
 
 
 
-## Way of Dharma
+## Way of the Unbroken Chain
 a neutral god of death and reincarnation
-analog to buddhism
+Founded by Anh Minh in Bok'nang (before it was called that)
+Diety is called Loc'Nang - *Lord of Reincarnation* (it/its)
+its followers
 
 ## The Fool
 a chaotic god of trickery and insanity. many of his followers are anarchists, and are behind many of the largest coups and terrorist attacks. they enjoy spreading chaos for its own sake. Followers of the Fool often secretly worm their way into positions of power within large organizations, with the aim of causing chaos from the inside. 
@@ -64,21 +57,7 @@ Zandra is viewed as the highest power among the gods, but their influence on the
 # Magic
 ![[Inherent Spellcasting]]
 
-## Magical Residue and Detect Magic
-Spellcasting leaves traces in the weave when it is used. By upcasting the Detect Magic spell, you can see these traces long after the spell was cast
 
-| level | time period |
-| ----- | ----------- |
-| 1     | now         |
-| 2     | 6 hr        |
-| 3     | 1 day       |
-| 4     | 1 week      |
-| 5     | 1 month     |
-| 6     | 1 year      |
-| 7     | 10 years    |
-| 8     | 100 years   |
-| 9     | 1000 years  |
- 
 
 # History
 ## Ancient history
