@@ -70,7 +70,9 @@ When an individual is brought back from the dead through the effect of a Revivif
 When any of these resurrection spells are cast on an individual, they may refuse the resurrection. if they do, their soul appears above their body, or in a space adjacent to the caster, as a ghostly apparition. They may speak freely with the caster and those nearby about their reasoning for the refusal, or any other topic. Once the conversation is concluded, their soul returns to the afterlife. During this time, their soul is bound to their body, or to the location they were summoned in. They cannot move of their own volition, but if their body is moved, they move with it. They may remain in this state for up to a year and a day. This may only occur once, and any subsequent attempts to resurrect the individual result only in the ghostly sound of their voice whispering *"No"*. At any point during that year and a day, if the soul is still lingering, the soul may change their mind and choose to accept the resurrection, even if they are outside of the time limit stipulated by the spell. If the soul is bound to their body, and their body is destroyed, they return to the afterlife, and can no longer become the target of any resurrection spell.
 
 Individuals effected by the permanent effects listed above are commonly known as "*The Resurrected*". 
+
 Determining whether someone is one of the Resurrected requires a DC12 Investigation, Arcana, Nature, or Religion check
+
 Knowledge of the Resurrected is common, requiring only a DC8 Arcana, History, Nature, or Religion check to know of their existence.
 
 The common perception of the Resurrected is not as negative as the common perception of other undead. Most people pity the Resurrected, rather than fear them. 
@@ -79,9 +81,14 @@ The common perception of the Resurrected is not as negative as the common percep
 
 # Necromancy
 When an necromancer raises a corpse from the dead through the effect of the *Animate Dead* spell, or any similar necromantic spell, ability, or effect which requires the corpse of a humanoid as part of its casting, the soul to which that corpse belonged to is violently ripped from the afterlife and bound to the undead which is created by that spell, ability, or effect. Such undead are referred to as "*Soulbound Undead*"
+
 This only effects corpses which have been dead for less than a year and a day. If the corpse used for a necromantic spell, ability, or effect belonged to a soul which died more than a year and a day prior to the casting of this spell, then the undead is raised with no soul attached to it.
+
 The Soulbound Undead retains its memories of life, and the afterlife, however their minds are clouded, and they usually do not understand that they are dead. 
 If they are bound to the will of a necromancer, they have no ability to resist their commands.
+
 A Soulbound Undead which becomes untethered from a necromancer regains its will, and may act according to their own desires. Such undead are not automatically hostile to living creatures, but they gain an irresistible hunger for the flesh or spiritual energy of living humanoids. 
+
 When they see a living humanoid, they must pass a DC13 will save, or be overcome with the desire to kill and consume that humanoid. For every minute they spend in the presence of living humanoids, they must make this save again, adding -1 to their cumulative penalty every time they have to make this save. This penalty resets when they consume a humanoid, but they receive a permanent -1 to their Wisdom score each time they consume a humanoid.
+
 Soulbound Undead which are not controlled by necromancers commonly attempt to return to their lives, which inevitably ends in tragedy when they attack their loved ones. 
