@@ -1,3 +1,4 @@
+adjusted rates
 
 | Social status                                                                                                      | Minimum income/month | Lifestyle/month | Upkeep/month | Taxes/month | Profit/month |     |
 | ------------------------------------------------------------------------------------------------------------------ | -------------------- | --------------- | ------------ | ----------- | ------------ | --- |
@@ -7,16 +8,6 @@
 | Wealthy _(highly successful merchants, a favoured servant of the royalty, or the owner of a few small businesses)_ | 12 gp                | 6 gp            | 4 gp         | 1.2 gp      | 80 sp        |     |
 | Aristocratic _(politicians, guild leaders, high priests)_                                                          | 30 gp                | 15 gp           | 10 gp        | 3 gp        | 2 gp         |     |
 
-
----
-
-| Social status                                                                                                      | Minimum income/month | Lifestyle/month | Upkeep/month | Taxes/month | Profit/month |     |     |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------- | --------------- | ------------ | ----------- | ------------ | --- | --- |
-| Poor _(unskilled labourer, costermongers, peddlers, thieves, mercenaries)_                                         | 6 gp                 | 3 gp            | 2 gp         | 6 sp        | 4 sp         |     |     |
-| Modest _(soldiers with families, labourers, students, priests, hedge wizards)_                                     | 30 gp                | 15 gp           | 10 gp        | 3 gp        | 2 gp         |     |     |
-| Comfortable _(merchants, skilled tradespeople, military officers)_                                                 | 60 gp                | 30 gp           | 20 gp        | 6 gp        | 4 gp         |     |     |
-| Wealthy _(highly successful merchants, a favoured servant of the royalty, or the owner of a few small businesses)_ | 120 gp               | 60 gp           | 40 gp        | 12 gp       | 8 gp         |     |     |
-| Aristocratic _(politicians, guild leaders, high priests)_                                                          | 300 gp               | 150 gp          | 100 gp       | 30 gp       | 20 gp        |     |     |
 # Clothes
 | Type                  | cost | Description                                                                                                                                            |
 | --------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -39,3 +30,12 @@ exchange rates are modelled through losses when exchanging currency
 | Nation      | currency | rate |
 | ----------- | -------- | ---- |
 | Jade Empire |          |      |
+
+# Craftsman Labor Costs
+(all costs adjusted)
+
+| Description                    | Cost |     |
+| ------------------------------ | ---- | --- |
+| Upgrading weapon to Masterwork | 10g  |     |
+| Apprentice property (each)     | 50s  |     |
+| Journeyman Property (1 only)   | 15 g |     |

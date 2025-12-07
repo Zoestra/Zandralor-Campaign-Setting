@@ -45,21 +45,29 @@ When an individual is brought back from the dead through the effect of a Revivif
 -  Permanent Effects
 	- -1 penalty to all ability scores (in addition to the penalty from the exhaustion)
 	- their pool of hit dice are permanently reduced by 50% (round down)
+		- you may remove the -1 penalty, and reduce the hit die reduction to 25% with a Wish spell. 
+		- None of the other effects listed below can be removed with a wish spell
 	- they gain the Undead type in addition to their other types 
 		- they are treated as Undead for the purpose of spells which detect Undead, such as Detect Good and Evil
 		- they are treated as Undead for the purpose of Turn Undead
+		- they are **not** treated as Undead for the purposes of healing spells
 		- they no longer need to eat, drink, or breathe, but their organs continue to function as normal
 		- they no longer have the inherent connection to their body which the living normally have. they experience their body as a thing which they inhabit, like a ghost wearing a meat suit. Breathing requires conscious effort, and sensations feel disconnected. 
+		- they gain the Trance feature
+			- **Trance**. The Returned don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+				- _If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed._
 	- they gain some number of dark personality traits, as deemed appropriate by the player and the GM
 	- They remember their time in the afterlife. How this affects the character is determined by the player. 
 	- Their physical appearance takes on some visible traits of undeath, as determined by the player.
 	- They are no longer able to fully recover from wounds. any wounds will leave permanent visible marks even after the damage is healed.
 	- Their remaining lifespan is doubled. they age as normal, however after they surpass the natural life expectancy, they slowly begin rotting.
-	- if the individual dies again, and is again raised from the dead by a Revivify, Raise Dead, or Resurrection spell again, they come back as any undead monster of equivalent CR to their level at time of death. They retain their memories and allegiances, but over the course of the following week, their good memories fade, leaving only memories of pain and suffering. During this process, they gradually become hostile to their former allies.
+	- if the individual dies again, and is again raised from the dead by a Revivify, Raise Dead, or Resurrection spell again, they return as any undead monster of equivalent CR to their level at time of death. They retain their memories and allegiances, but over the course of the following **week**, their good memories fade, leaving only memories of pain and suffering. During this process, they gradually become hostile to their former allies.
 
 - True Resurrection and Wish
-	- The first time an individual is raised using a True Resurrection, or a Wish spell, they suffer only the temporary effects listed above
-	- If an individual is resurrected for a second time using the True Resurrection, Wish, or any other resurrection spell, they suffer the permanent effects as listed above
+	- If an individual is raised using a True Resurrection, or a Wish spell:
+		- if they have never been raised from the dead before, they do not receive the permanent effects listed above
+		- if they have been raised from the dead before, they receive the permanent effects listed above. 
+		- if the individual has been raised from the dead twice before, they return as any undead monster of equivalent CR to their level at time of death. They retain their memories and allegiances, but over the course of the following **month**, their good memories fade, leaving only memories of pain and suffering. During this process, they gradually become hostile to their former allies. This cannot be reversed with a wish spell
 
 - Reincarnation
 	- If a character is resurrected using the Reincarnation spell, they suffer the following effects
@@ -69,14 +77,14 @@ When an individual is brought back from the dead through the effect of a Revivif
 
 When any of these resurrection spells are cast on an individual, they may refuse the resurrection. if they do, their soul appears above their body, or in a space adjacent to the caster, as a ghostly apparition. They may speak freely with the caster and those nearby about their reasoning for the refusal, or any other topic. Once the conversation is concluded, their soul returns to the afterlife. During this time, their soul is bound to their body, or to the location they were summoned in. They cannot move of their own volition, but if their body is moved, they move with it. They may remain in this state for up to a year and a day. This may only occur once, and any subsequent attempts to resurrect the individual result only in the ghostly sound of their voice whispering *"No"*. At any point during that year and a day, if the soul is still lingering, the soul may change their mind and choose to accept the resurrection, even if they are outside of the time limit stipulated by the spell. If the soul is bound to their body, and their body is destroyed, they return to the afterlife, and can no longer become the target of any resurrection spell.
 
-Individuals effected by the permanent effects listed above are commonly known as "*The Resurrected*". 
+Individuals effected by the permanent effects listed above are commonly known as "*The Returned*". 
 
-Determining whether someone is one of the Resurrected requires a DC12 Investigation, Arcana, Nature, or Religion check
+Determining whether someone is one of the Returned requires a DC12 Investigation, Arcana, Nature, or Religion check
 
-Knowledge of the Resurrected is common, requiring only a DC8 Arcana, History, Nature, or Religion check to know of their existence.
+Knowledge of the Returned is common, requiring only a DC8 Arcana, History, Nature, or Religion check to know of their existence.
 
-The common perception of the Resurrected is not as negative as the common perception of other undead. Most people pity the Resurrected, rather than fear them. 
-- The Resurrected have advantage on persuasion checks to ask for charity or mercy, if the target is aware of their Resurrected status.
+The common perception of the Returned is not as negative as the common perception of other undead. Most people pity the Returned, rather than fear them. 
+- The Returned have advantage on persuasion checks to ask for charity or mercy, if the target is aware of their Returned status.
 
 
 # Necromancy

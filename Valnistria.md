@@ -1,0 +1,21 @@
+Eastern European-style imperial collaborators 
+Language: Slavic
+- Government
+	- Valnistria is ruled by an eternal undead aristocracy. The king is a lv 20 vampire. The lords are all either vampires, or necromancers.
+- Economy
+	- Mindless Undead are used for most productive labor in the country, leaving the living citizens to work as servants for the aristocracy, or as merchants and craftsmen. 
+- Culture
+	- Citizens are required to allow the vampiric nobles to feed on them. Usually the vampires will not kill those they feed on, but sometimes they go too far. 
+	- After death, citizens are buried for a year and a day to allow their soul to pass on, then their corpse is resurrected and put to work
+- Religion
+	- Valnistria is a primarily Atheist nation. Most Valnistrians choose Oblivion when they arrive in the afterlife.
+- Schools of Necromancy
+	- Two schools which train students in the necromantic arts.
+	- Anyone who arrives at their doorstep is taken in, regardless of social status.
+	- Deaths are common in both schools, and students are encouraged to engage in deadly duels, and to kill those students who they deem week
+	- Students who die while studying at these schools are used to practice necromancy.
+	- School of the Lich
+		- Trains magic users, such as Necromancer (class), Wizards, and Sorcerers.
+	- School of the Vampire
+		- Trains martial users as vampiric spellblades.
+		- Students are turned into Dhampir 
