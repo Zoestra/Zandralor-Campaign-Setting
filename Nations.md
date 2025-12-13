@@ -1,7 +1,7 @@
 # Imperial Core
 
 ### The Jade Empire
-
+[[Jade Empire]]
 an asian-themed imperialist empire
 language: zhongwen
 religion: way of dharma
@@ -14,8 +14,7 @@ religion: way of dharma
 ### Sattaran Sultanate
 a ottoman-themed imperialist empire
 Language: Farsi
-religion: Hearth and Hunt
-
+religion: placeholder - islamic
 ### Pantung
 Indonesian civ
 imperialist
@@ -93,3 +92,48 @@ many portals to the faewild
 mindflayer-stralia
 filled with mindflayers and monsters
 nobody goes there
+
+# Unsorted
+
+### Lak'dun
+Cambodian
+at war with Jabuar republic
+allied to Azdai and ...
+
+### Azdai
+Aztec/Thai fusion
+City state and many culturally related fishing villages
+
+### Eiselonia
+Babylonian
+Former seat of culture for Eisleron
+ancient civ, oldest scientists
+named the continents
+at war with sattaran sultunate
+
+
+### Zandak
+kazahk style nation
+
+### Nesria
+Ural / Georgian
+
+### South Sattara
+Ottoman themed
+different sect of islamic religion
+split over religious schism
+not currently at war with sultunate, but tensions are high
+
+### Nan Xulai
+singapore / chinese / malay
+trade city, high population of jade empire diaspora, extremely metropolitan
+unaligned, but heavily armed
+
+
+### Azai Federation
+Previously a loose alliance of three city states
+A gold rush in the central azai mountains caused a massive influx of population from everywhere.
+became a democratic federation, dominated by the goldrushers, and then became extremely imperialist. 
+
+### Edaxia
+colonized?

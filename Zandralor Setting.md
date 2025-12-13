@@ -1,5 +1,9 @@
 Zandralor is a magical dieselpunk setting embroiled in a globe-spanning war of imperialism, fascism, and revolution. 
 
+
+# Current Day
+The current year is 1384. War has been raging across Eisleron and Southern Xulai for 10 years
+
 # Nations
 
 [[Nations]]
